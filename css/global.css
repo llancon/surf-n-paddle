@@ -1,0 +1,44 @@
+.ally {
+  background-image: url(../img/ocean.jpeg);
+  background-size: cover;
+  background-position: bottom;
+  width: 100%;
+  height: 300px;
+}
+.headtext {
+  text-align: center;
+
+}
+#surf {
+  font-size: 70px;
+  padding-top: 20px;
+  color: white;
+}
+.allypad {
+  padding: 0;
+}
+.par {
+  height: 300px;
+
+}
+
+
+div {
+  border: solid 3px
+}
+#search {
+  margin-right: 0px;
+}
+.demo {
+    background: url(../img/ally.jpeg) no-repeat center center ;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#litword {
+  padding-left: 0px;
+  padding-right: 0px;
+}
