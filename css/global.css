@@ -19,9 +19,7 @@
 }
 .par {
   height: 300px;
-
-}
-
+}/*this class just changes height for the boxes need to take off at the end*/
 
 div {
   border: solid 3px
@@ -37,8 +35,30 @@ div {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}/* Adds small picture in circle*/
+#litword {
+  padding-left: 0px;
+  padding-right: 0px;
 }
 #litword {
   padding-left: 0px;
   padding-right: 0px;
+}
+.grayout {
+  opacity: 0.6;
+}/*adds gray to text */
+#linenopad {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}/* take off bottom padding to line about Woah*/
+.field {
+  background: url(https://unsplash.it/272/272?random) ;
+  height: 272px;
+  width: 272px;
+}
+.makemegray {
+  background-color: #A2B5C1;
+}
+.makemeblue {
+  background-color: #106EAE;
 }
